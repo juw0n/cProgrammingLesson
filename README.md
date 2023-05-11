@@ -9,3 +9,6 @@
 double (8 byte) | %lf for printing
 float (4 byte) | %f for printing
 char (4 byte) | %c for printing -->
+
+# we use "sizeof" to get the size of a data type e.g sizeof(age)
+# in C, we use scanf to get inputs from users
